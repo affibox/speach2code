@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.envrc
+.mypy_cache/
+.pytest_cache/
+*.wav
+*.txt
+!requirements.txt
+output/
+.transcriptions/
+.DS_Store
